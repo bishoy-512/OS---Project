@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//kern/mem/chunk_operations.c=UTF-8
+encoding//kern/mem/kheap.c=UTF-8
+encoding//kern/mem/shared_memory_manager.c=UTF-8
+encoding//kern/proc/user_environment.c=UTF-8
+encoding//kern/trap/fault_handler.c=UTF-8
+encoding//kern/trap/trap.c=UTF-8
+encoding//lib/uheap.c=UTF-8
+encoding//user/tst_page_replacement_alloc.c=UTF-8
+encoding//user/tst_page_replacement_stack.c=UTF-8
